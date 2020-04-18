@@ -3,7 +3,7 @@
 # Environment: glibc
 # Minimum Panel Version: 0.6.0
 # ----------------------------------
-FROM        node:12-ubuntu
+FROM        node:12-buster
 
 LABEL       author="gOOvER" maintainer="info@goover.de"
 
