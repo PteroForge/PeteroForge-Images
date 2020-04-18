@@ -3,7 +3,7 @@
 # Environment: glibc
 # Minimum Panel Version: 0.6.0
 # ----------------------------------
-FROM        node:12-ubuntu:18.04
+FROM        node:12-ubuntu
 
 LABEL       author="gOOvER" maintainer="info@goover.de"
 
