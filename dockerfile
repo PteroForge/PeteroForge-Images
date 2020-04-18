@@ -5,7 +5,7 @@
 # ----------------------------------
 FROM        node:12-ubuntu:18.04
 
-LABEL       author="Michael Parker" maintainer="parker@pterodactyl.io"
+LABEL       author="gOOvER" maintainer="info@goover.de"
 
 RUN         apt update \
             && apt -y install ffmpeg iproute2 git sqlite3 python3 \
